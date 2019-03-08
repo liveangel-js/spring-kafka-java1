@@ -1,0 +1,1 @@
+https://docs.spring.io/spring-kafka/docs/1.3.10.BUILD-SNAPSHOT/reference/html/_introduction.html#compatibility
